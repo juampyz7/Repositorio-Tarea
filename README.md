@@ -1,2 +1,2 @@
 # Repositorio-Tarea
-## Creacion de mi primer wiki 
+## Creacion de mi primera wiki a traves de Git manejado desde GitBush
